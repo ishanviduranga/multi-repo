@@ -1,0 +1,3 @@
+[submodule "src/app/dashboard"]
+	path = src/app/dashboard
+	url = git@github.com:ishanviduranga/shared-dashboard.git
